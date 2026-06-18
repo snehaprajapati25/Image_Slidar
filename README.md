@@ -49,4 +49,4 @@ A simple image slider built using HTML, CSS, and JavaScript.
 
 
 
-Sneha Prajapati
+
