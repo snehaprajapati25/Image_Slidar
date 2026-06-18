@@ -53,9 +53,9 @@ h1{
 .prev-btn,
 .next-btn{
     background:#fff;
-    /* width:60px;
-    height:60px; */
-    padding: 20px;
+    width:60px;
+    height:60px;
+    /* padding: 20px; */
     display:flex;
     justify-content:center;
     align-items:center;
