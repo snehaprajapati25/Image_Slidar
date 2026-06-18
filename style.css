@@ -7,7 +7,7 @@
 body {    
     background: linear-gradient(to right, #6da6be, #4b859e, #6da6be);
     min-height:100vh;
-    max-width: 100wh;
+    max-width: 100vw;
 }
 
 h1{
